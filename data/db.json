@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Pranab",
+      "user": "prana@007",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Polo001",
+      "user": "Merch@",
+      "userId": 8,
+      "id": 8
+    },
+    {
+      "name": "Anil Dev Roy",
+      "user": "dev@007",
+      "userId": 10,
+      "id": 10
+    },
+    {
+      "name": "Sourav Palit",
+      "user": "sourav@099",
+      "userId": 11,
+      "id": 11
+    }
+  ]
+}
